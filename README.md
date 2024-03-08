@@ -1,2 +1,2 @@
-# random-code-generator2
-npm site for rdc
+npm install express
+node app.js
